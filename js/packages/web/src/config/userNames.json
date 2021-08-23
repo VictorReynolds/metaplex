@@ -28,6 +28,11 @@
     "image": "https://pbs.twimg.com/profile_images/1299400345144049665/sPxnVXa7_400x400.jpg",
     "description": "Account used by Solana to mint official NFTs.",
     "background": ""
-
+  },
+  "Fr7esuiyh3gbb7AqeDsB2M9JxsC9CCvjFGobYN8hE7y8": {
+    "name": "TVVR",
+    "image": "https://store.tvvrband.com/img/tvvr_profile.jpg",
+    "description": "",
+    "background": "https://store.tvvrband.com/img/tvvr_banner.jpg"
   }
 }
